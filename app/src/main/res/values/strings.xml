@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="name">Name :</string>
+    <string name="NRICno">NRIC No. :</string>
+    <string name="email">email :</string>
+    <string name="address">Address :</string>
+</resources>
